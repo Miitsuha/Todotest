@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="698161e4-8c8c-47be-acb6-65565d0ce287" name="Default Changelist" comment="" />
+    <list default="true" id="698161e4-8c8c-47be-acb6-65565d0ce287" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/ToDoList/user/d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/ToDoList/user/dao/d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/ToDoList/config/RestExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/ToDoList/config/RestExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/ToDoList/controller/ToDoListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/ToDoList/controller/ToDoListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/ToDoList/model/ToDoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/ToDoList/model/ToDoList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/ToDoList/repository/ToDoListRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/ToDoList/repository/ToDoListRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/ToDoList/repository/ToDoListRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/ToDoList/repository/ToDoListRepositoryImpl.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ToDoList-Spring" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -67,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568972705825</updated>
       <workItem from="1568972708515" duration="1444000" />
-      <workItem from="1568974633018" duration="2660000" />
+      <workItem from="1568974633018" duration="5326000" />
     </task>
     <servers />
   </component>
